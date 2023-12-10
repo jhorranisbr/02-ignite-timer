@@ -1,8 +1,8 @@
 # Ignite - Ignite timer. 
 
-This is project from ignite course
+This is project from ignite course - module 02
 
-![Logo ToDo](https://github.com/jhorranisbr/rs-ig-chl-01-todolist/blob/main/src/assets/ignite-timer.svg)
+![Logo Ignite Timer](https://github.com/jhorranisbr/rs-ig-02-ignite-timer/blob/main/src/assets/logo-ignite.svg)
 
 ## Some things learned in this module
 
